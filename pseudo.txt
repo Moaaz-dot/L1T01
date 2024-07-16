@@ -1,0 +1,51 @@
+psuedo.txt
+1)
+Set the total inputted values to zero
+Set counter to one
+
+request an postive integer from the user
+
+if the integer is negative, 
+print "error, please input a positive integer"
+
+if the integer is postive,
+input the integer
+print "correct, continue adding postive integers"
+
+Add the integer to the total inputted values
+Create a variable "largest_integer"to calculate the largest inputted value
+
+if the integer ends in a 0 value, 
+print "Algorithm finished, thanks.Largest number was "largest_integer". "
+
+
+
+2)
+request user's name
+Store user's name in variable "first_name"
+print "first_name Hello, World"
+
+3) 
+set the total average to zero
+set the counter to one
+add the integer total average 
+Calculate the integer total average divided by the number of total number of counters.
+Print out the integer total average  
+
+4) 
+request shopping list of apples,bananas, grapes, butter, bread, milk. (note apples, butter, bread, milk are still left to buy) 
+print " Input a positive integer if already bought, otherwise input a negative integer if still left to buy".
+if the integer is negative, print "still left to buy"
+Arrange negative integers in alphabetical order (so apples, bread, butter, milk)
+
+5) 
+input X integer(e.g. 1)
+input Y integer (e.g. 2)
+
+calculate S_integer by adding X and Y integers (1+2=3)
+calculate A_ integer by dividing S_ integer in half (3/2= 1.5)
+calculate P_ integer by multiplying X and Y integers (1x2=2)
+
+if S_integer, A integer_,P_integer are completed, then print "S_integer, A_integer, P_integer)
+
+
